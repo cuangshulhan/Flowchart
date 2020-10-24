@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T07:50:44.974Z" agent="5.0 (Windows)" etag="dDsx3wm9L3HOJVhPNCsP" version="13.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-24T08:05:18.451Z" agent="5.0 (Windows)" etag="S2g433LRY_iF4e_0C11a" version="13.8.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Kntainer Masuk">
-    <mxGraphModel dx="1730" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -40,7 +40,7 @@
         <mxCell id="tV1ILy-u4YtAFmCyhSWu-14" value="&lt;div&gt;Surat jalan &lt;br&gt;&lt;/div&gt;&lt;div&gt;masuk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="145" y="780" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tV1ILy-u4YtAFmCyhSWu-15" value="&lt;div&gt;Surat jalan &lt;br&gt;&lt;/div&gt;&lt;div&gt;masuk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tV1ILy-u4YtAFmCyhSWu-15" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="136" y="790" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tV1ILy-u4YtAFmCyhSWu-16" value="&lt;div&gt;diberikan &lt;br&gt;&lt;/div&gt;&lt;div&gt;kepada &lt;br&gt;&lt;/div&gt;&lt;div&gt;supir&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -496,7 +496,7 @@
             <mxPoint x="800" y="1120.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YxxIl9g1X2zRUpmCxy-3-55" value="&lt;div&gt;Dokumen&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pemberitahuan&lt;/div&gt;&lt;div&gt;Pengeluaran &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barang&lt;/div&gt;dari EMKL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#FAE5C7;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="YxxIl9g1X2zRUpmCxy-3-55" value="&lt;div&gt;Surat&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pemberitahuan&lt;/div&gt;&lt;div&gt;Pengeluaran &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barang&lt;/div&gt;dari EMKL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#FAE5C7;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
           <mxGeometry x="240" y="230" width="40" height="70" as="geometry" />
         </mxCell>
       </root>

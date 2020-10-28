@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T18:26:21.236Z" agent="5.0 (Windows)" etag="3KSgU7Y8A5-xm3O0dxj8" version="13.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T18:28:25.811Z" agent="5.0 (Windows)" etag="XdulMO3he5VlkGtpGXaX" version="13.8.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Kntainer Masuk">
-    <mxGraphModel dx="865" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,8 +43,8 @@
         <mxCell id="tV1ILy-u4YtAFmCyhSWu-15" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="136" y="790" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tV1ILy-u4YtAFmCyhSWu-16" value="&lt;div&gt;Surat &lt;br&gt;&lt;/div&gt;&lt;div&gt;Penyerahan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Petikemas&lt;br&gt;&lt;/div&gt;&lt;div&gt;diberikan &lt;br&gt;&lt;/div&gt;&lt;div&gt;kepada &lt;br&gt;&lt;/div&gt;&lt;div&gt;supir&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="245" y="752" width="45" height="80" as="geometry" />
+        <mxCell id="tV1ILy-u4YtAFmCyhSWu-16" value="SP2 untuk &lt;br&gt;&lt;div&gt;supir&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="245" y="780" width="45" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tV1ILy-u4YtAFmCyhSWu-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="125" y="910" width="140" height="60" as="geometry" />
@@ -250,8 +250,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n9gvvYT5bzI5ikWXELkP-0" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="126" y="800" width="100" height="80" as="geometry" />
+        <mxCell id="n9gvvYT5bzI5ikWXELkP-0" value="Surat Penyerahan Petikemas (SP2) / Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="126" y="800" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n9gvvYT5bzI5ikWXELkP-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="840" width="63.33" height="40" as="geometry" />

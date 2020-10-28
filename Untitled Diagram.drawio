@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T18:28:25.811Z" agent="5.0 (Windows)" etag="XdulMO3he5VlkGtpGXaX" version="13.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-28T18:29:44.490Z" agent="5.0 (Windows)" etag="jsZfA28Vog8V6DVnGF-W" version="13.8.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Kntainer Masuk">
-    <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I1Mku6cLkckqTubBV1jy" name="Kontainer Keluar">
-    <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-eOIMcNMlywwsIDG8MLV-0" />
         <mxCell id="-eOIMcNMlywwsIDG8MLV-1" parent="-eOIMcNMlywwsIDG8MLV-0" />

@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T02:10:30.560Z" agent="5.0 (Windows)" version="13.9.6" etag="EFRab72f5_IQ6AVcrhda" type="github"><diagram id="NA0KZxk3qrtfwM2OW_Ud">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-13T02:33:59.611Z" agent="5.0 (Windows)" etag="1esAU1Ak0g0BIg1PgfDD" version="13.9.6" type="github">
+  <diagram id="NA0KZxk3qrtfwM2OW_Ud" name="masuk">
+    <mxGraphModel dx="1221" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eQw3OcEAn6oPx84qbfoO-1" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Kegiatan 1&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Data PLP&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Surat Jalan&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Menerima data Pemindahan Lokasi &lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&amp;nbsp;&amp;nbsp; Penumpukan (PLP)&amp;nbsp; dari beacukai()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Menerima surat jalan lini satu dari supir truk()&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-990" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eQw3OcEAn6oPx84qbfoO-8" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Kegiatan 2&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Data Kontainer Masuk&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Mencatat data kontainer masuk()&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-780" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eQw3OcEAn6oPx84qbfoO-9" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Kegiatan 3&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ SP2/Tila Cargo Masuk&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Data Kontainer Penimbunan&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Data Rekap Laporan&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 13px&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Membuat SP2/Tila Cargo Masuk()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Mendata kontainer penimbunan()&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;+ Merekap data seluruh laporan()&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-570" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eQw3OcEAn6oPx84qbfoO-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1" source="eQw3OcEAn6oPx84qbfoO-1" target="eQw3OcEAn6oPx84qbfoO-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="-720" as="sourcePoint" />
+            <mxPoint x="510" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQw3OcEAn6oPx84qbfoO-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1" source="eQw3OcEAn6oPx84qbfoO-8" target="eQw3OcEAn6oPx84qbfoO-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="379.17" y="-630" as="sourcePoint" />
+            <mxPoint x="379.17" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

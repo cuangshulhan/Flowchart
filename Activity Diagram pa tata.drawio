@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T17:42:25.478Z" agent="5.0 (Windows)" etag="0WURZHM6eXGbOKny79Qh" version="13.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-13T04:02:02.490Z" agent="5.0 (Windows)" etag="plb1tppeSe8VbT-d9Fv4" version="13.9.7" type="github" pages="2">
   <diagram id="-TMZJQe4dS-zmTzHG-hq" name="Kontainer Masuk">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
         <mxCell id="6PdKSCioszlDP950Om9q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="6PdKSCioszlDP950Om9q-1" source="6PdKSCioszlDP950Om9q-12" target="6PdKSCioszlDP950Om9q-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6PdKSCioszlDP950Om9q-12" value="menerima dokumen Surat Pemberitahuan Pengeluaran Barang (SPPB) dari EMKL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#143642;fillColor=#FAE5C7;strokeColor=#0F8B8D;" parent="6PdKSCioszlDP950Om9q-1" vertex="1">
+        <mxCell id="6PdKSCioszlDP950Om9q-12" value="menerima dokumen Surat Persetujuan Pengeluaran Barang (SPPB) dari EMKL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#143642;fillColor=#FAE5C7;strokeColor=#0F8B8D;" parent="6PdKSCioszlDP950Om9q-1" vertex="1">
           <mxGeometry x="137.5" y="150" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6PdKSCioszlDP950Om9q-13" value="Mencatat data kontainer keluar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#143642;fillColor=#FAE5C7;strokeColor=#0F8B8D;" parent="6PdKSCioszlDP950Om9q-1" vertex="1">

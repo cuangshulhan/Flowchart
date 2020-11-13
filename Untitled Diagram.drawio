@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T20:11:49.953Z" agent="5.0 (Windows)" etag="2veEzye9OOyGKFlFbIkF" version="13.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-13T04:02:53.683Z" agent="5.0 (Windows)" etag="vAGfg38gGMmlSHnk9hnX" version="13.9.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Kntainer Masuk">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I1Mku6cLkckqTubBV1jy" name="Kontainer Keluar">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="-eOIMcNMlywwsIDG8MLV-0" />
         <mxCell id="-eOIMcNMlywwsIDG8MLV-1" parent="-eOIMcNMlywwsIDG8MLV-0" />
@@ -488,25 +488,25 @@
             <mxPoint x="800" y="1120.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YxxIl9g1X2zRUpmCxy-3-55" value="&lt;div&gt;Surat&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pemberitahuan&lt;/div&gt;&lt;div&gt;Pengeluaran &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barang&lt;/div&gt;dari EMKL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
+        <mxCell id="YxxIl9g1X2zRUpmCxy-3-55" value="&lt;div&gt;Surat&lt;br&gt;&lt;/div&gt;&lt;div&gt;Persetujuan&lt;/div&gt;&lt;div&gt;Pengeluaran &lt;br&gt;&lt;/div&gt;&lt;div&gt;Barang&lt;/div&gt;dari EMKL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=0;sketch=0;fillColor=#FAE5C7;fontColor=#143642;strokeColor=#0F8B8D;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="240" y="230" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-0" value="&lt;div&gt;Surat jalan &lt;br&gt;&lt;/div&gt;&lt;div&gt;masuk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-0" value="&lt;div&gt;Surat jalan &lt;br&gt;&lt;/div&gt;&lt;div&gt;masuk&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="145" y="668.0043556529821" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-1" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-1" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="136" y="692.0043556529821" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-2" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;supir untuk &lt;br&gt;&lt;/div&gt;&lt;div&gt;mengembalikan &lt;br&gt;&lt;/div&gt;&lt;div&gt;kontainer kosong &lt;br&gt;&lt;/div&gt;&lt;div&gt;ke depo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-2" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;supir untuk &lt;br&gt;&lt;/div&gt;&lt;div&gt;mengembalikan &lt;br&gt;&lt;/div&gt;&lt;div&gt;kontainer kosong &lt;br&gt;&lt;/div&gt;&lt;div&gt;ke depo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="226" y="720" width="54" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" edge="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#A8201A;fontColor=#143642;labelBackgroundColor=#DAD2D8;" parent="-eOIMcNMlywwsIDG8MLV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="628.0043556529821" as="sourcePoint" />
             <mxPoint x="189.71000000000004" y="668.0043556529821" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fillColor=#FAE5C7;fontColor=#143642;entryX=0.463;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="KOuuA3zcWEMJnCEd8Wwy-1" target="KOuuA3zcWEMJnCEd8Wwy-6" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fillColor=#FAE5C7;fontColor=#143642;entryX=0.463;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-eOIMcNMlywwsIDG8MLV-1" source="KOuuA3zcWEMJnCEd8Wwy-1" target="KOuuA3zcWEMJnCEd8Wwy-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="86" y="731.0043556529821" as="targetPoint" />
             <Array as="points">
@@ -515,25 +515,25 @@
             <mxPoint x="130" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-5" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-5" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="126" y="722.0043556529821" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="30" y="762.0043556529821" width="63.33" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-7" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-7" value="SP2/ Tila Cargo Masuk" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="113.33000000000004" y="752.0043556529821" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-8" value="&lt;div&gt;Surat Penyerahan Petikemas (SP2) / Tila Cargo Keluar&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-8" value="&lt;div&gt;Surat Penyerahan Petikemas (SP2) / Tila Cargo Keluar&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="103.33000000000004" y="780.0043556529821" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-9" value="SP2 untuk&lt;br&gt;&lt;div&gt;supir surat jalan&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-9" value="SP2 untuk&lt;br&gt;&lt;div&gt;supir surat jalan&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="243.84" y="670" width="36.16" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-10" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;gerbang pelindo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-10" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;gerbang pelindo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="215" y="790" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-11" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;dokumentasi &lt;br&gt;&lt;/div&gt;&lt;div&gt;pelindo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" vertex="1" parent="-eOIMcNMlywwsIDG8MLV-1">
+        <mxCell id="KOuuA3zcWEMJnCEd8Wwy-11" value="&lt;div&gt;SP2 untuk&lt;/div&gt;&lt;div&gt;dokumentasi &lt;br&gt;&lt;/div&gt;&lt;div&gt;pelindo&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rotation=0;" parent="-eOIMcNMlywwsIDG8MLV-1" vertex="1">
           <mxGeometry x="203.33" y="838" width="76.67" height="30" as="geometry" />
         </mxCell>
       </root>
